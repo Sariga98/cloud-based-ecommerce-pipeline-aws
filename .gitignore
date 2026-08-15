@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Environment / secrets
+.env
+.env.*
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data (uncomment if dataset is large or sensitive — keep out of git)
+# *.csv
+# data/
+
+# Model artifacts (uncomment if you don't want trained models committed)
+# *.h5
+# *.pkl
+# *.joblib
+
+# Logs
+*.log
+
+# AWS credentials (never commit real keys)
+.aws/
+*.pem
+aws_credentials*
+
+# Dataset (large, download separately from Kaggle)
+data/
+*.zip
