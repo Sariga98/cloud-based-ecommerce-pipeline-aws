@@ -72,7 +72,7 @@ This project builds an end-to-end **cloud-based data pipeline** on **AWS S3**, u
 ## 📁 Repository Structure
 
 ```
-cloud-based-ecommerce-pipeline-using-aws-and-python/
+cloud-based-ecommerce-pipeline-aws/
 ├── cloud_based_ecommerce_pipeline_aws.ipynb   # Main pipeline notebook
 ├── data/                                       # Olist dataset (see Dataset section below)
 ├── images/
